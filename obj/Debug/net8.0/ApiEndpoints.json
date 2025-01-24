@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EFAPIProject.Controllers.QueryController",
+    "Method": "GetProcessos",
+    "RelativePath": "api/Query",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
